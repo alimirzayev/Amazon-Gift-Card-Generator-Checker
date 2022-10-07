@@ -9,4 +9,4 @@
 6.- Edit with your personalized pattern<br>
 7.- Press enter, select 2000 or 3000 and good luck!</p>
 
-<h1>For Educational Purposes Only</h1>
+<h3>For Educational Purposes Only</h3>
