@@ -8,3 +8,5 @@
 5.- Open the console of navigator and paste this code<br>
 6.- Edit with your personalized pattern<br>
 7.- Press enter, select 2000 or 3000 and good luck!</p>
+
+<h1>For Educational Purposes Only</h1>
